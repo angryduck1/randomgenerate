@@ -5,9 +5,9 @@
 <h1>Как запустить?</h1>
 --------------
 
-1. Скачайте файл random.py с Github.
+* Скачайте файл random.py с Github.
 
-2. Запустите файл с помощью Python. (`python random.py` или `python3 random.py`)
+* Запустите файл с помощью Python. (`python random.py` или `python3 random.py`)
 
 <h1>Как использовать?</h1>
 --------------
